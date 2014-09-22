@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Apartment.unity
+  - enabled: 1
+    path: Assets/Hospital.unity
+  - enabled: 1
+    path: Assets/WaitingRoom.unity
+  - enabled: 1
+    path: Assets/Corridor1.unity
+  - enabled: 1
+    path: Assets/Corridor2.unity

@@ -447,7 +447,7 @@ MonoBehaviour:
   fsm:
     usedInTemplate: {fileID: 0}
     name: ApartmentCutsceneFSM
-    startState: PhoneRing
+    startState: DisplayIntro
     states:
     - name: PhoneRing
       description: Play the phone ringing SFX and listen for interaction button press.
