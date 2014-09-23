@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 28c1c3ccc1aa04a85989dbba4e242699
+guid: 2863c07c834f44bf18790c3cd98f7023
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
@@ -363,7 +363,7 @@ ModelImporter:
     400354: temple_Left
     400356: temple_Right
     400358: u_lip_center
-    7400000: refuse_00
+    7400000: down_20
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -382,10 +382,10 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: refuse_00
+      name: down_20
       takeName: Take 001
       firstFrame: 0
-      lastFrame: 72
+      lastFrame: 46
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -396,9 +396,9 @@ ModelImporter:
       loopBlendOrientation: 1
       loopBlendPositionY: 1
       loopBlendPositionXZ: 1
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 0
-      keepOriginalPositionXZ: 0
+      keepOriginalPositionXZ: 1
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
@@ -408,9 +408,9 @@ ModelImporter:
       - path: 
         weight: 1
       - path: PelvisRoot
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Back_long_skart1
         weight: 0
       - path: PelvisRoot/Hips/Back_long_skart1/Back_long_skart2
@@ -504,15 +504,15 @@ ModelImporter:
       - path: PelvisRoot/Hips/Left_long_skart1/Left_long_skart2/Left_long_skart3/Left_long_skart4/Left_long_skart5/Left_long_skart6
         weight: 0
       - path: PelvisRoot/Hips/LeftUpLeg
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/LeftUpLeg/LeftHip_Helper
         weight: 0
       - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToes/LeftToesNull
         weight: 0
       - path: PelvisRoot/Hips/LeftUpLeg/LeftLeg/LeftLeg_Helper
@@ -530,91 +530,91 @@ ModelImporter:
       - path: PelvisRoot/Hips/Right_long_skart1/Right_long_skart2/Right_long_skart3/Right_long_skart4/Right_long_skart5/Right_long_skart6
         weight: 0
       - path: PelvisRoot/Hips/RightUpLeg
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/RightUpLeg/RightHip_Helper
         weight: 0
       - path: PelvisRoot/Hips/RightUpLeg/RightLeg
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightFoot/RightToes/RightToesNull
         weight: 0
       - path: PelvisRoot/Hips/RightUpLeg/RightLeg/RightLeg_Helper
         weight: 0
       - path: PelvisRoot/Hips/Spine
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArm_Helper
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3/LeftHandIndexNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHanditem_Null
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3/LeftHandMiddleNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3/LeftHandPinkyNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3/LeftHandRingNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/LeftShoulder/LeftArm/LeftArmRoll/LeftForeArm/LeftForeArmRoll/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3/LeftHandThumbNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Left
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/cheek_Right
@@ -640,9 +640,9 @@ ModelImporter:
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid1_Right
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Left
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid2_Right
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Left
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/eyerid_Right
@@ -652,7 +652,7 @@ ModelImporter:
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/inner_corner_of_eye_Right
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/b_lip_center
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/face/atama_n/jaw/chin
@@ -710,59 +710,59 @@ ModelImporter:
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/Neck/Head/RightEarring_Null
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArm_Helper
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3/RightHandIndexNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHanditem_Null
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3/RightHandMiddleNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3/RightHandPinkyNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandRing1/RightHandRing2/RightHandRing3/RightHandRingNull
         weight: 0
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
-        weight: 0
+        weight: 1
       - path: PelvisRoot/Hips/Spine/Spine1/Spine2/Spine3/RightShoulder/RightArm/RightArmRoll/RightForeArm/RightForeArmRoll/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3/RightHandThumbNull
         weight: 0
       maskType: 0
