@@ -1,0 +1,3 @@
+﻿ID;EN;DE
+APT_1;No point in wondering how it ended up like this.;
+APT_2;Whisky, cigarettes, this...place.;
